@@ -1,23 +1,10 @@
-## Getting Started
-
-Create a project using this example:
-
-```bash
-npx thirdweb create --template next-typescript-starter
-```
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-On `pages/_app.tsx`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
-
-### Deploy to IPFS
-
-Deploy a copy of your application to IPFS using the following command:
-
-```bash
-yarn deploy
-```
+# deployed contracts
+### erc1155(membershipNFT)
+https://sepolia.etherscan.io/address/0xAf8990ABe1E6857C4DCD0cf5dF486fE276799Cc6
+### erc20(governanceToken)
+https://sepolia.etherscan.io/address/0xA9ED9DCF7941c499338a3d83e50133F90870AE67
+### governance/voting
+https://sepolia.etherscan.io/address/0x29d2d3b4137Ee3E11e17aE27a30360675a3d8Fa9
 
 ## Learn More
 
@@ -29,7 +16,3 @@ To learn more about thirdweb and Next.js, take a look at the following resources
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 
 You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
